@@ -10,5 +10,3 @@ end
 
 fido = Dog.new
 fido.bark
-
-puts fido 
