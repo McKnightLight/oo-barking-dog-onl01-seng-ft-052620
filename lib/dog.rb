@@ -10,6 +10,5 @@ end
 
 def bark 
   fido = Dog.new
-fido.bark
-end 
-
+  fido.bark
+end
