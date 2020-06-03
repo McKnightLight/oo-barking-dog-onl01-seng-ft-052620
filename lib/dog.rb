@@ -1,5 +1,8 @@
 class Dog
-  def bark = "woof!"
+  def name=(name)
+    @name = name 
+    bark = "woof!"
+  end 
 end
 
 fido = Dog.new
