@@ -8,5 +8,9 @@ class Dog
   end 
 end
 
+def bark 
+  
+end 
+
 fido = Dog.new
 fido.bark
